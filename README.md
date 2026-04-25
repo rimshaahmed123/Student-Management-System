@@ -180,5 +180,5 @@ After completing this project, you will:
 
 
 
+<img width="807" height="173" alt="Output" src="https://github.com/user-attachments/assets/7db0aed5-57c3-4dd4-88d2-20a0370b49fa" />
 
----
